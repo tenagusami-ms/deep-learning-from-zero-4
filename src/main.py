@@ -12,8 +12,6 @@ async def main() -> None:
     """
     main
     """
-    # prefix_directory: Path = Path(__file__).parent.parent
-    # data_directory: Path = prefix_directory / "data"
     try:
         chapter01()
 
